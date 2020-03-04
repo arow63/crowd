@@ -1,0 +1,14 @@
+2020-03-04 06:26:35 Error: Fatal Error (64): Cannot use 'Object' as class name as it is reserved in [C:\xampp\htdocs\crowd\core\lib\Cake\Core\Object.php, line 26]
+2020-03-04 06:26:35 Error: [InternalErrorException] Internal Server Error
+#0 C:\xampp\htdocs\crowd\core\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(64, 'Cannot use 'Obj...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\crowd\core\lib\Cake\Core\App.php(926): ErrorHandler::handleError(64, 'Cannot use 'Obj...', 'C:\\xampp\\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\crowd\core\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-03-04 06:26:37 Error: Fatal Error (64): Cannot use 'Object' as class name as it is reserved in [C:\xampp\htdocs\crowd\core\lib\Cake\Core\Object.php, line 26]
+2020-03-04 06:26:37 Error: [InternalErrorException] Internal Server Error
+#0 C:\xampp\htdocs\crowd\core\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(64, 'Cannot use 'Obj...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\crowd\core\lib\Cake\Core\App.php(926): ErrorHandler::handleError(64, 'Cannot use 'Obj...', 'C:\\xampp\\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\crowd\core\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
