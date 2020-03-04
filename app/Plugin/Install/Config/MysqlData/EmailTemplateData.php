@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -3243,7 +3243,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=\'#ffffff\', e
 			'from' => '##FROM_EMAIL##',
 			'reply_to' => '##REPLY_TO_EMAIL##',
 			'name' => 'Admin User Edit',
-			'description' => 'we will send this mailinto user, when admin edit user\'s profile.',
+			'description' => 'we will send this mail
+into user, when admin edit user\'s profile.',
 			'subject' => '[##SITE_NAME##] Profile updated',
 			'email_text_content' => 'Hi ##USERNAME##,
 

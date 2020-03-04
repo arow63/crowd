@@ -25,9 +25,9 @@ cdn.js:
 cloudflare.email: 
 cloudflare.is_cloudflare_enabled: 0
 cloudflare.token: 
-EmailTemplate.admin_email: demo+admin+crowdfund@agriya.com
-EmailTemplate.from_email: demo+admin+crowdfund@agriya.com
-EmailTemplate.no_reply_email: demo+admin+reply+crowdfund@agriya.com
+EmailTemplate.admin_email: demo+admin+crowdfund@arow63.com
+EmailTemplate.from_email: demo+admin+crowdfund@arow63.com
+EmailTemplate.no_reply_email: demo+admin+reply+crowdfund@arow63.com
 EmailTemplate.reply_to_email: 
 equity.amount_per_share: 20
 equity.max_share_purchase_per_user: 100
@@ -81,7 +81,7 @@ meta.description: >
     Crowdfunding helps you develop different clone in a
     crowdfunding fashion
 meta.keywords: >
-    agriya, crowdfund, crowdfunding, kickstarter clone,
+    arow63, crowdfund, crowdfunding, kickstarter clone,
     fundbreak clone, thepoint clone, Sponsume clone, RocketHub
     clone
 openid.is_enabled_openid_connect: 1
@@ -253,7 +253,7 @@ site.robots:
 site.time.format: %I:%M %p
 site.time.tooltip: %B %d, %Y (%A) %Z
 site.tracking_script: |
-    <script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18572079-3']); _gaq.push(['_setDomainName', '.dev.agriya.com']); _gaq.push(['_setAllowAnchor', true]); _gaq.push(['_trackPageview']); _gaq.push(function() { href = window.location.search; href.replace(/(utm_source|utm_medium|utm_campaign|utm_term|utm_content)+=[^\\&]*/g, '').replace(/\\&+/g, '&').replace(/\\?\\&/g, '?').replace(/(\\?|\\&)$/g, ''); if (history.replaceState) history.replaceState(null, '', location.pathname + href + location.hash);}); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
+    <script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18572079-3']); _gaq.push(['_setDomainName', '.dev.arow63.com']); _gaq.push(['_setAllowAnchor', true]); _gaq.push(['_trackPageview']); _gaq.push(function() { href = window.location.search; href.replace(/(utm_source|utm_medium|utm_campaign|utm_term|utm_content)+=[^\\&]*/g, '').replace(/\\&+/g, '&').replace(/\\?\\&/g, '?').replace(/(\\?|\\&)$/g, ''); if (history.replaceState) history.replaceState(null, '', location.pathname + href + location.hash);}); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
 site.version: v2.0a14
 social_networking.post_project_on_user_facebook: 1
 social_networking.post_project_on_user_twitter: 1
@@ -293,7 +293,7 @@ twitter.consumer_secret: DmEa7JmMWSCoWLKjinXhJYjbvIqgT2wXjZkaOOeFiJ2uZnUqlU
 twitter.is_enabled_twitter_connect: 1
 twitter.site_user_access_key: ZYWq1w0lW6akU1dXje39swy8Mv9CRBSQegKNqCpt7hY2Z
 twitter.site_user_access_token: 75254727-eakHNwnHb7inzGtfhDB5vpl0DITfCgtHD6zw3atGf
-twitter.username: agriyacrowdfund
+twitter.username: arow63crowdfund
 user.is_admin_activate_after_register: 0
 user.is_admin_mail_after_register: 1
 user.is_allow_user_to_switch_language: 1

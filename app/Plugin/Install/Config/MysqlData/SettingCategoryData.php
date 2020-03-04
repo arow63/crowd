@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -174,7 +174,7 @@ class SettingCategoryData {
 			'modified' => '2013-05-15 10:30:03',
 			'parent_id' => '124',
 			'name' => 'Google PageSpeed',
-			'description' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as Agriya SFPlatform script is highly optimized already.',
+			'description' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as arow63 SFPlatform script is highly optimized already.',
 			'plugin_name' => 'HighPerformance'
 		),
 		array(
@@ -238,7 +238,7 @@ class SettingCategoryData {
 			'modified' => '0000-00-00 00:00:00',
 			'parent_id' => '38',
 			'name' => 'Facebook',
-			'description' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\"http://dev1products.dev.agriya.com/doku.php?id=facebook-setup\" target=\"_blank\">http://dev1products.dev.agriya.com/doku.php?id=facebook-setup.</a>',
+			'description' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\"http://dev1products.dev.arow63.com/doku.php?id=facebook-setup\" target=\"_blank\">http://dev1products.dev.arow63.com/doku.php?id=facebook-setup.</a>',
 			'plugin_name' => ''
 		),
 		array(
@@ -256,7 +256,7 @@ class SettingCategoryData {
 			'modified' => '2010-10-07 19:04:30',
 			'parent_id' => '38',
 			'name' => 'Twitter',
-			'description' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\"http://dev1products.dev.agriya.com/doku.php?id=twitter-setup\" target=\"_blank\">http://dev1products.dev.agriya.com/doku.php?id=twitter-setup.</a>',
+			'description' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\"http://dev1products.dev.arow63.com/doku.php?id=twitter-setup\" target=\"_blank\">http://dev1products.dev.arow63.com/doku.php?id=twitter-setup.</a>',
 			'plugin_name' => ''
 		),
 		array(
@@ -283,7 +283,7 @@ class SettingCategoryData {
 			'modified' => '0000-00-00 00:00:00',
 			'parent_id' => '38',
 			'name' => 'Google Translations',
-			'description' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\"http://code.google.com/apis/language/translate/v2/pricing.html\" target=\"_blank\">paid service</a>.Getting Api key, refer <a href=\"http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing\" target=\"_blank\">http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing</a>.',
+			'description' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\"http://code.google.com/apis/language/translate/v2/pricing.html\" target=\"_blank\">paid service</a>.Getting Api key, refer <a href=\"http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing\" target=\"_blank\">http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing</a>.',
 			'plugin_name' => 'Translation'
 		),
 		array(
@@ -850,7 +850,7 @@ class SettingCategoryData {
 			'modified' => '0000-00-00 00:00:00',
 			'parent_id' => '124',
 			'name' => 'Full-page Caching',
-			'description' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this Agriya SFPlatform script is highly optimized for this approach, this is highly recommended for good performance. ',
+			'description' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this arow63 SFPlatform script is highly optimized for this approach, this is highly recommended for good performance. ',
 			'plugin_name' => 'HighPerformance'
 		),
 		array(

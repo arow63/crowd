@@ -29,7 +29,7 @@
     </div>
     <div class="main clearfix">
       <div class="side-content grid_7">
-        <div class="agriya">Agriya</div>
+        <div class="arow63">arow63</div>
         <ol class="list round-4 grid_6">
           <li class="round-4<?php if ($this->request->params['action'] == 'index') { ?> active<?php } ?>">1. <?php echo __l('Welcome'); ?></li>
           <li class="round-4<?php if ($this->request->params['action'] == 'requirements') { ?> active<?php } ?>">2. <?php echo __l('Server Requirments'); ?></li>
@@ -51,7 +51,7 @@
       <div class="footer-inner clearfix">
         <p>&copy;<?php echo date('Y'); ?> <a title="<?php echo Configure::read('site.name'); ?>" href="/"><?php echo Configure::read('site.name'); ?></a>. <?php echo __l('All rights reserved.'); ?></p>
         <p class="powered clearfix"><span><?php echo $this->Html->link($this->Html->cText(sprintf(__l('Powered by %s'), Configure::read('site.name'));), '/', array('title' => sprintf(__l('Powered by %s'), Configure::read('site.name'));, 'escape' => false));?>,</span>
-        <span><?php echo __l('made in'); ?></span><a class="company" title="<?php echo sprintf(__l('%s Web Development'), 'Agriya');?>" target="_blank" href="http://www.agriya.com/"><?php echo sprintf(__l('%s Web Development'), 'Agriya');?></a></p>
+        <span><?php echo __l('made in'); ?></span><a class="company" title="<?php echo sprintf(__l('%s Web Development'), 'arow63');?>" target="_blank" href="http://www.arow63.com/"><?php echo sprintf(__l('%s Web Development'), 'arow63');?></a></p>
         <p><a class="cssilize" title="CSSilized by CSSilize, PSD to XHTML Conversion" target="_blank" href="http://www.cssilize.com/">CSSilized by CSSilize, PSD to XHTML Conversion</a></p>
       </div>
     </div>

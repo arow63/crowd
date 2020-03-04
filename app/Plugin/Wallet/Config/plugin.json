@@ -1,9 +1,9 @@
 {
 	"name" : "Wallet",
 	"description" : "By enabling this, users can hold the fund in site account and use it for site activities like funding projects, pay listing fee etc.,",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : "true",
 	"parent": "3.Plugins For All Modules.Children.Payments.Children",
 	"subplugin" : "Withdrawals",

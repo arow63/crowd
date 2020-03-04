@@ -1,9 +1,9 @@
 {
 	"name" : "Withdrawals",
 	"description" : "By enabling this, user can withdraw the amount from site account to his personal (bank, PayPal etc.,) account.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : "true",
 	"parent": "3.Plugins For All Modules.Children.Payments.Children.Wallet.Children",
 	"dependencies": {

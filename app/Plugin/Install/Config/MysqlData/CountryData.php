@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -33,7 +33,8 @@ class CountryData {
 			'languages' => 'fa-AF,ps,uz-AF,tk',
 			'geonameId' => '1149361',
 			'neighbours' => 'TM,CN,IR,TJ,PK,UZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '2',
@@ -55,7 +56,8 @@ class CountryData {
 			'languages' => 'sv-AX',
 			'geonameId' => '661882',
 			'neighbours' => '',
-			'equivalentFipsCode' => 'FI'
+			'equivalentFipsCode' => 'FI
+'
 		),
 		array(
 			'id' => '3',
@@ -77,7 +79,8 @@ class CountryData {
 			'languages' => 'sq,el',
 			'geonameId' => '783754',
 			'neighbours' => 'MK,GR,CS,ME,RS,XK',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '4',
@@ -99,7 +102,8 @@ class CountryData {
 			'languages' => 'ar-DZ',
 			'geonameId' => '2589581',
 			'neighbours' => 'NE,EH,LY,MR,TN,MA,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '5',
@@ -121,7 +125,8 @@ class CountryData {
 			'languages' => 'en-AS,sm,to',
 			'geonameId' => '5880801',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '6',
@@ -143,7 +148,8 @@ class CountryData {
 			'languages' => 'ca',
 			'geonameId' => '3041565',
 			'neighbours' => 'ES,FR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '7',
@@ -165,7 +171,8 @@ class CountryData {
 			'languages' => 'pt-AO',
 			'geonameId' => '3351879',
 			'neighbours' => 'CD,NA,ZM,CG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '8',
@@ -187,7 +194,8 @@ class CountryData {
 			'languages' => 'en-AI',
 			'geonameId' => '3573511',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '9',
@@ -209,7 +217,8 @@ class CountryData {
 			'languages' => '',
 			'geonameId' => '6697173',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '10',
@@ -231,7 +240,8 @@ class CountryData {
 			'languages' => 'en-AG',
 			'geonameId' => '3576396',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '11',
@@ -253,7 +263,8 @@ class CountryData {
 			'languages' => 'es-AR,en,it,de,fr,gn',
 			'geonameId' => '3865483',
 			'neighbours' => 'CL,BO,UY,PY,BR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '12',
@@ -275,7 +286,8 @@ class CountryData {
 			'languages' => 'hy',
 			'geonameId' => '174982',
 			'neighbours' => 'GE,IR,AZ,TR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '13',
@@ -297,7 +309,8 @@ class CountryData {
 			'languages' => 'nl-AW,es,en',
 			'geonameId' => '3577279',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '14',
@@ -319,7 +332,8 @@ class CountryData {
 			'languages' => 'en-AU',
 			'geonameId' => '2077456',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '15',
@@ -341,7 +355,8 @@ class CountryData {
 			'languages' => 'de-AT,hr,hu,sl',
 			'geonameId' => '2782113',
 			'neighbours' => 'CH,DE,HU,SK,CZ,IT,SI',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '16',
@@ -363,7 +378,8 @@ class CountryData {
 			'languages' => 'az,ru,hy',
 			'geonameId' => '587116',
 			'neighbours' => 'GE,IR,AM,TR,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '17',
@@ -385,7 +401,8 @@ class CountryData {
 			'languages' => 'en-BS',
 			'geonameId' => '3572887',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '18',
@@ -407,7 +424,8 @@ class CountryData {
 			'languages' => 'ar-BH,en,fa,ur',
 			'geonameId' => '290291',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '19',
@@ -429,7 +447,8 @@ class CountryData {
 			'languages' => 'bn-BD,en',
 			'geonameId' => '1210997',
 			'neighbours' => 'MM,IN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '20',
@@ -451,7 +470,8 @@ class CountryData {
 			'languages' => 'en-BB',
 			'geonameId' => '3374084',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '21',
@@ -473,7 +493,8 @@ class CountryData {
 			'languages' => 'be,ru',
 			'geonameId' => '630336',
 			'neighbours' => 'PL,LT,UA,RU,LV',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '22',
@@ -495,7 +516,8 @@ class CountryData {
 			'languages' => 'nl-BE,fr-BE,de-BE',
 			'geonameId' => '2802361',
 			'neighbours' => 'DE,NL,LU,FR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '23',
@@ -517,7 +539,8 @@ class CountryData {
 			'languages' => 'en-BZ,es',
 			'geonameId' => '3582678',
 			'neighbours' => 'GT,MX',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '24',
@@ -539,7 +562,8 @@ class CountryData {
 			'languages' => 'fr-BJ',
 			'geonameId' => '2395170',
 			'neighbours' => 'NE,TG,BF,NG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '25',
@@ -561,7 +585,8 @@ class CountryData {
 			'languages' => 'en-BM,pt',
 			'geonameId' => '3573345',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '26',
@@ -583,7 +608,8 @@ class CountryData {
 			'languages' => 'dz',
 			'geonameId' => '1252634',
 			'neighbours' => 'CN,IN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '27',
@@ -605,7 +631,8 @@ class CountryData {
 			'languages' => 'es-BO,qu,ay',
 			'geonameId' => '3923057',
 			'neighbours' => 'PE,CL,PY,BR,AR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '28',
@@ -627,7 +654,8 @@ class CountryData {
 			'languages' => 'nl,pap,en',
 			'geonameId' => '7626844',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '29',
@@ -649,7 +677,8 @@ class CountryData {
 			'languages' => 'bs,hr-BA,sr-BA',
 			'geonameId' => '3277605',
 			'neighbours' => 'CS,HR,ME,RS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '30',
@@ -671,7 +700,8 @@ class CountryData {
 			'languages' => 'en-BW,tn-BW',
 			'geonameId' => '933860',
 			'neighbours' => 'ZW,ZA,NA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '31',
@@ -693,7 +723,8 @@ class CountryData {
 			'languages' => '',
 			'geonameId' => '3371123',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '32',
@@ -715,7 +746,8 @@ class CountryData {
 			'languages' => 'pt-BR,es,en,fr',
 			'geonameId' => '3469034',
 			'neighbours' => 'SR,PE,BO,UY,GY,PY,GF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '33',
@@ -737,7 +769,8 @@ class CountryData {
 			'languages' => 'en-IO',
 			'geonameId' => '1282588',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '34',
@@ -759,7 +792,8 @@ class CountryData {
 			'languages' => 'en-VG',
 			'geonameId' => '3577718',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '35',
@@ -781,7 +815,8 @@ class CountryData {
 			'languages' => 'ms-BN,en-BN',
 			'geonameId' => '1820814',
 			'neighbours' => 'MY',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '36',
@@ -803,7 +838,8 @@ class CountryData {
 			'languages' => 'bg,tr-BG',
 			'geonameId' => '732800',
 			'neighbours' => 'MK,GR,RO,CS,TR,RS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '37',
@@ -825,7 +861,8 @@ class CountryData {
 			'languages' => 'fr-BF',
 			'geonameId' => '2361809',
 			'neighbours' => 'NE,BJ,GH,CI,TG,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '38',
@@ -847,7 +884,8 @@ class CountryData {
 			'languages' => 'fr-BI,rn',
 			'geonameId' => '433561',
 			'neighbours' => 'TZ,CD,RW',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '39',
@@ -869,7 +907,8 @@ class CountryData {
 			'languages' => 'km,fr,en',
 			'geonameId' => '1831722',
 			'neighbours' => 'LA,TH,VN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '40',
@@ -891,7 +930,8 @@ class CountryData {
 			'languages' => 'en-CM,fr-CM',
 			'geonameId' => '2233387',
 			'neighbours' => 'TD,CF,GA,GQ,CG,NG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '41',
@@ -913,7 +953,8 @@ class CountryData {
 			'languages' => 'en-CA,fr-CA,iu',
 			'geonameId' => '6251999',
 			'neighbours' => 'US',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '42',
@@ -935,7 +976,8 @@ class CountryData {
 			'languages' => 'pt-CV',
 			'geonameId' => '3374766',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '43',
@@ -957,7 +999,8 @@ class CountryData {
 			'languages' => 'en-KY',
 			'geonameId' => '3580718',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '44',
@@ -979,7 +1022,8 @@ class CountryData {
 			'languages' => 'fr-CF,sg,ln,kg',
 			'geonameId' => '239880',
 			'neighbours' => 'TD,SD,CD,SS,CM,CG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '45',
@@ -1001,7 +1045,8 @@ class CountryData {
 			'languages' => 'fr-TD,ar-TD,sre',
 			'geonameId' => '2434508',
 			'neighbours' => 'NE,LY,CF,SD,CM,NG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '46',
@@ -1023,7 +1068,8 @@ class CountryData {
 			'languages' => 'es-CL',
 			'geonameId' => '3895114',
 			'neighbours' => 'PE,BO,AR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '47',
@@ -1045,7 +1091,8 @@ class CountryData {
 			'languages' => 'zh-CN,yue,wuu,dta,ug,za',
 			'geonameId' => '1814991',
 			'neighbours' => 'LA,BT,TJ,KZ,MN,AF,NP',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '48',
@@ -1067,7 +1114,8 @@ class CountryData {
 			'languages' => 'en,zh,ms-CC',
 			'geonameId' => '2078138',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '49',
@@ -1089,7 +1137,8 @@ class CountryData {
 			'languages' => 'ms-CC,en',
 			'geonameId' => '1547376',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '50',
@@ -1111,7 +1160,8 @@ class CountryData {
 			'languages' => 'es-CO',
 			'geonameId' => '3686110',
 			'neighbours' => 'EC,PE,PA,BR,VE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '51',
@@ -1133,7 +1183,8 @@ class CountryData {
 			'languages' => 'ar,fr-KM',
 			'geonameId' => '921929',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '52',
@@ -1155,7 +1206,8 @@ class CountryData {
 			'languages' => 'en-CK,mi',
 			'geonameId' => '1899402',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '53',
@@ -1177,7 +1229,8 @@ class CountryData {
 			'languages' => 'es-CR,en',
 			'geonameId' => '3624060',
 			'neighbours' => 'PA,NI',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '54',
@@ -1199,7 +1252,8 @@ class CountryData {
 			'languages' => 'hr-HR,sr',
 			'geonameId' => '3202326',
 			'neighbours' => 'HU,SI,CS,BA,ME,RS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '55',
@@ -1221,7 +1275,8 @@ class CountryData {
 			'languages' => 'es-CU',
 			'geonameId' => '3562981',
 			'neighbours' => 'US',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '56',
@@ -1243,7 +1298,8 @@ class CountryData {
 			'languages' => 'nl,pap',
 			'geonameId' => '7626836',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '57',
@@ -1265,7 +1321,8 @@ class CountryData {
 			'languages' => 'el-CY,tr-CY,en',
 			'geonameId' => '146669',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '58',
@@ -1287,7 +1344,8 @@ class CountryData {
 			'languages' => 'cs,sk',
 			'geonameId' => '3077311',
 			'neighbours' => 'PL,DE,SK,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '59',
@@ -1309,7 +1367,8 @@ class CountryData {
 			'languages' => 'fr-CD,ln,kg',
 			'geonameId' => '203312',
 			'neighbours' => 'TZ,CF,SS,RW,ZM,BI,UG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '60',
@@ -1331,7 +1390,8 @@ class CountryData {
 			'languages' => 'da-DK,en,fo,de-DK',
 			'geonameId' => '2623032',
 			'neighbours' => 'DE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '61',
@@ -1353,7 +1413,8 @@ class CountryData {
 			'languages' => 'fr-DJ,ar,so-DJ,aa',
 			'geonameId' => '223816',
 			'neighbours' => 'ER,ET,SO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '62',
@@ -1375,7 +1436,8 @@ class CountryData {
 			'languages' => 'en-DM',
 			'geonameId' => '3575830',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '63',
@@ -1397,7 +1459,8 @@ class CountryData {
 			'languages' => 'es-DO',
 			'geonameId' => '3508796',
 			'neighbours' => 'HT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '64',
@@ -1419,7 +1482,8 @@ class CountryData {
 			'languages' => 'tet,pt-TL,id,en',
 			'geonameId' => '1966436',
 			'neighbours' => 'ID',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '65',
@@ -1441,7 +1505,8 @@ class CountryData {
 			'languages' => 'es-EC',
 			'geonameId' => '3658394',
 			'neighbours' => 'PE,CO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '66',
@@ -1463,7 +1528,8 @@ class CountryData {
 			'languages' => 'ar-EG,en,fr',
 			'geonameId' => '357994',
 			'neighbours' => 'LY,SD,IL',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '67',
@@ -1485,7 +1551,8 @@ class CountryData {
 			'languages' => 'es-SV',
 			'geonameId' => '3585968',
 			'neighbours' => 'GT,HN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '68',
@@ -1507,7 +1574,8 @@ class CountryData {
 			'languages' => 'es-GQ,fr',
 			'geonameId' => '2309096',
 			'neighbours' => 'GA,CM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '69',
@@ -1529,7 +1597,8 @@ class CountryData {
 			'languages' => 'aa-ER,ar,tig,kun,ti-ER',
 			'geonameId' => '338010',
 			'neighbours' => 'ET,SD,DJ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '70',
@@ -1551,7 +1620,8 @@ class CountryData {
 			'languages' => 'et,ru',
 			'geonameId' => '453733',
 			'neighbours' => 'RU,LV',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '71',
@@ -1573,7 +1643,8 @@ class CountryData {
 			'languages' => 'am,en-ET,om-ET,ti-ET,so-ET,sid',
 			'geonameId' => '337996',
 			'neighbours' => 'ER,KE,SD,SS,SO,DJ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '72',
@@ -1595,7 +1666,8 @@ class CountryData {
 			'languages' => 'en-FK',
 			'geonameId' => '3474414',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '73',
@@ -1617,7 +1689,8 @@ class CountryData {
 			'languages' => 'fo,da-FO',
 			'geonameId' => '2622320',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '74',
@@ -1639,7 +1712,8 @@ class CountryData {
 			'languages' => 'en-FJ,fj',
 			'geonameId' => '2205218',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '75',
@@ -1661,7 +1735,8 @@ class CountryData {
 			'languages' => 'fi-FI,sv-FI,smn',
 			'geonameId' => '660013',
 			'neighbours' => 'NO,RU,SE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '76',
@@ -1683,7 +1758,8 @@ class CountryData {
 			'languages' => 'fr-FR,frp,br,co,ca,eu,oc',
 			'geonameId' => '3017382',
 			'neighbours' => 'CH,DE,BE,LU,IT,AD,MC',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '77',
@@ -1705,7 +1781,8 @@ class CountryData {
 			'languages' => 'fr-GF',
 			'geonameId' => '3381670',
 			'neighbours' => 'SR,BR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '78',
@@ -1727,7 +1804,8 @@ class CountryData {
 			'languages' => 'fr-PF,ty',
 			'geonameId' => '4030656',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '79',
@@ -1749,7 +1827,8 @@ class CountryData {
 			'languages' => 'fr',
 			'geonameId' => '1546748',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '80',
@@ -1771,7 +1850,8 @@ class CountryData {
 			'languages' => 'fr-GA',
 			'geonameId' => '2400553',
 			'neighbours' => 'CM,GQ,CG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '81',
@@ -1793,7 +1873,8 @@ class CountryData {
 			'languages' => 'en-GM,mnk,wof,wo,ff',
 			'geonameId' => '2413451',
 			'neighbours' => 'SN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '82',
@@ -1815,7 +1896,8 @@ class CountryData {
 			'languages' => 'ka,ru,hy,az',
 			'geonameId' => '614540',
 			'neighbours' => 'AM,AZ,TR,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '83',
@@ -1837,7 +1919,8 @@ class CountryData {
 			'languages' => 'de',
 			'geonameId' => '2921044',
 			'neighbours' => 'CH,PL,NL,DK,BE,CZ,LU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '84',
@@ -1859,7 +1942,8 @@ class CountryData {
 			'languages' => 'en-GH,ak,ee,tw',
 			'geonameId' => '2300660',
 			'neighbours' => 'CI,TG,BF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '85',
@@ -1881,7 +1965,8 @@ class CountryData {
 			'languages' => 'en-GI,es,it,pt',
 			'geonameId' => '2411586',
 			'neighbours' => 'ES',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '86',
@@ -1903,7 +1988,8 @@ class CountryData {
 			'languages' => 'el-GR,en,fr',
 			'geonameId' => '390903',
 			'neighbours' => 'AL,MK,TR,BG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '87',
@@ -1925,7 +2011,8 @@ class CountryData {
 			'languages' => 'kl,da-GL,en',
 			'geonameId' => '3425505',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '88',
@@ -1947,7 +2034,8 @@ class CountryData {
 			'languages' => 'en-GD',
 			'geonameId' => '3580239',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '89',
@@ -1969,7 +2057,8 @@ class CountryData {
 			'languages' => 'fr-GP',
 			'geonameId' => '3579143',
 			'neighbours' => 'AN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '90',
@@ -1991,7 +2080,8 @@ class CountryData {
 			'languages' => 'en-GU,ch-GU',
 			'geonameId' => '4043988',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '91',
@@ -2013,7 +2103,8 @@ class CountryData {
 			'languages' => 'es-GT',
 			'geonameId' => '3595528',
 			'neighbours' => 'MX,HN,BZ,SV',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '92',
@@ -2035,7 +2126,8 @@ class CountryData {
 			'languages' => 'en,fr',
 			'geonameId' => '3042362',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '93',
@@ -2057,7 +2149,8 @@ class CountryData {
 			'languages' => 'fr-GN',
 			'geonameId' => '2420477',
 			'neighbours' => 'LR,SN,SL,CI,GW,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '94',
@@ -2079,7 +2172,8 @@ class CountryData {
 			'languages' => 'pt-GW,pov',
 			'geonameId' => '2372248',
 			'neighbours' => 'SN,GN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '95',
@@ -2101,7 +2195,8 @@ class CountryData {
 			'languages' => 'en-GY',
 			'geonameId' => '3378535',
 			'neighbours' => 'SR,BR,VE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '96',
@@ -2123,7 +2218,8 @@ class CountryData {
 			'languages' => 'ht,fr-HT',
 			'geonameId' => '3723988',
 			'neighbours' => 'DO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '97',
@@ -2145,7 +2241,8 @@ class CountryData {
 			'languages' => '',
 			'geonameId' => '1547314',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '98',
@@ -2167,7 +2264,8 @@ class CountryData {
 			'languages' => 'es-HN',
 			'geonameId' => '3608932',
 			'neighbours' => 'GT,NI,SV',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '99',
@@ -2189,7 +2287,8 @@ class CountryData {
 			'languages' => 'zh-HK,yue,zh,en',
 			'geonameId' => '1819730',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '100',
@@ -2211,7 +2310,8 @@ class CountryData {
 			'languages' => 'hu-HU',
 			'geonameId' => '719819',
 			'neighbours' => 'SK,SI,RO,UA,CS,HR,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '101',
@@ -2233,7 +2333,8 @@ class CountryData {
 			'languages' => 'is,en,de,da,sv,no',
 			'geonameId' => '2629691',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '102',
@@ -2255,7 +2356,8 @@ class CountryData {
 			'languages' => 'en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc',
 			'geonameId' => '1269750',
 			'neighbours' => 'CN,NP,MM,BT,PK,BD',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '103',
@@ -2277,7 +2379,8 @@ class CountryData {
 			'languages' => 'id,en,nl,jv',
 			'geonameId' => '1643084',
 			'neighbours' => 'PG,TL,MY',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '104',
@@ -2299,7 +2402,8 @@ class CountryData {
 			'languages' => 'fa-IR,ku',
 			'geonameId' => '130758',
 			'neighbours' => 'TM,AF,IQ,AM,PK,AZ,TR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '105',
@@ -2321,7 +2425,8 @@ class CountryData {
 			'languages' => 'ar-IQ,ku,hy',
 			'geonameId' => '99237',
 			'neighbours' => 'SY,SA,IR,JO,TR,KW',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '106',
@@ -2343,7 +2448,8 @@ class CountryData {
 			'languages' => 'en-IE,ga-IE',
 			'geonameId' => '2963597',
 			'neighbours' => 'GB',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '107',
@@ -2365,7 +2471,8 @@ class CountryData {
 			'languages' => 'en,gv',
 			'geonameId' => '3042225',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '108',
@@ -2387,7 +2494,8 @@ class CountryData {
 			'languages' => 'he,ar-IL,en-IL,',
 			'geonameId' => '294640',
 			'neighbours' => 'SY,JO,LB,EG,PS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '109',
@@ -2409,7 +2517,8 @@ class CountryData {
 			'languages' => 'it-IT,de-IT,fr-IT,sc,ca,co,sl',
 			'geonameId' => '3175395',
 			'neighbours' => 'CH,VA,SI,SM,FR,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '110',
@@ -2431,7 +2540,8 @@ class CountryData {
 			'languages' => 'fr-CI',
 			'geonameId' => '2287781',
 			'neighbours' => 'LR,GH,GN,BF,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '111',
@@ -2453,7 +2563,8 @@ class CountryData {
 			'languages' => 'en-JM',
 			'geonameId' => '3489940',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '112',
@@ -2475,7 +2586,8 @@ class CountryData {
 			'languages' => 'ja',
 			'geonameId' => '1861060',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '113',
@@ -2497,7 +2609,8 @@ class CountryData {
 			'languages' => 'en,pt',
 			'geonameId' => '3042142',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '114',
@@ -2519,7 +2632,8 @@ class CountryData {
 			'languages' => 'ar-JO,en',
 			'geonameId' => '248816',
 			'neighbours' => 'SY,SA,IQ,IL,PS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '115',
@@ -2541,7 +2655,8 @@ class CountryData {
 			'languages' => 'kk,ru',
 			'geonameId' => '1522867',
 			'neighbours' => 'TM,CN,KG,UZ,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '116',
@@ -2563,7 +2678,8 @@ class CountryData {
 			'languages' => 'en-KE,sw-KE',
 			'geonameId' => '192950',
 			'neighbours' => 'ET,TZ,SS,SO,UG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '117',
@@ -2585,7 +2701,8 @@ class CountryData {
 			'languages' => 'en-KI,gil',
 			'geonameId' => '4030945',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '118',
@@ -2607,7 +2724,8 @@ class CountryData {
 			'languages' => 'sq,sr',
 			'geonameId' => '831053',
 			'neighbours' => 'RS,AL,MK,ME',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '119',
@@ -2629,7 +2747,8 @@ class CountryData {
 			'languages' => 'ar-KW,en',
 			'geonameId' => '285570',
 			'neighbours' => 'SA,IQ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '120',
@@ -2651,7 +2770,8 @@ class CountryData {
 			'languages' => 'ky,uz,ru',
 			'geonameId' => '1527747',
 			'neighbours' => 'CN,TJ,UZ,KZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '121',
@@ -2673,7 +2793,8 @@ class CountryData {
 			'languages' => 'lo,fr,en',
 			'geonameId' => '1655842',
 			'neighbours' => 'CN,MM,KH,TH,VN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '122',
@@ -2695,7 +2816,8 @@ class CountryData {
 			'languages' => 'lv,ru,lt',
 			'geonameId' => '458258',
 			'neighbours' => 'LT,EE,BY,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '123',
@@ -2717,7 +2839,8 @@ class CountryData {
 			'languages' => 'ar-LB,fr-LB,en,hy',
 			'geonameId' => '272103',
 			'neighbours' => 'SY,IL',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '124',
@@ -2739,7 +2862,8 @@ class CountryData {
 			'languages' => 'en-LS,st,zu,xh',
 			'geonameId' => '932692',
 			'neighbours' => 'ZA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '125',
@@ -2761,7 +2885,8 @@ class CountryData {
 			'languages' => 'en-LR',
 			'geonameId' => '2275384',
 			'neighbours' => 'SL,CI,GN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '126',
@@ -2783,7 +2908,8 @@ class CountryData {
 			'languages' => 'ar-LY,it,en',
 			'geonameId' => '2215636',
 			'neighbours' => 'TD,NE,DZ,SD,TN,EG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '127',
@@ -2805,7 +2931,8 @@ class CountryData {
 			'languages' => 'de-LI',
 			'geonameId' => '3042058',
 			'neighbours' => 'CH,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '128',
@@ -2827,7 +2954,8 @@ class CountryData {
 			'languages' => 'lt,ru,pl',
 			'geonameId' => '597427',
 			'neighbours' => 'PL,BY,RU,LV',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '129',
@@ -2849,7 +2977,8 @@ class CountryData {
 			'languages' => 'lb,de-LU,fr-LU',
 			'geonameId' => '2960313',
 			'neighbours' => 'DE,BE,FR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '130',
@@ -2871,7 +3000,8 @@ class CountryData {
 			'languages' => 'zh,zh-MO,pt',
 			'geonameId' => '1821275',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '131',
@@ -2893,7 +3023,8 @@ class CountryData {
 			'languages' => 'mk,sq,tr,rmm,sr',
 			'geonameId' => '718075',
 			'neighbours' => 'AL,GR,CS,BG,RS,XK',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '132',
@@ -2915,7 +3046,8 @@ class CountryData {
 			'languages' => 'fr-MG,mg',
 			'geonameId' => '1062947',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '133',
@@ -2937,7 +3069,8 @@ class CountryData {
 			'languages' => 'ny,yao,tum,swk',
 			'geonameId' => '927384',
 			'neighbours' => 'TZ,MZ,ZM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '134',
@@ -2959,7 +3092,8 @@ class CountryData {
 			'languages' => 'ms-MY,en,zh,ta,te,ml,pa,th',
 			'geonameId' => '1733045',
 			'neighbours' => 'BN,TH,ID',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '135',
@@ -2981,7 +3115,8 @@ class CountryData {
 			'languages' => 'dv,en',
 			'geonameId' => '1282028',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '136',
@@ -3003,7 +3138,8 @@ class CountryData {
 			'languages' => 'fr-ML,bm',
 			'geonameId' => '2453866',
 			'neighbours' => 'SN,NE,DZ,CI,GN,MR,BF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '137',
@@ -3025,7 +3161,8 @@ class CountryData {
 			'languages' => 'mt,en-MT',
 			'geonameId' => '2562770',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '138',
@@ -3047,7 +3184,8 @@ class CountryData {
 			'languages' => 'mh,en-MH',
 			'geonameId' => '2080185',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '139',
@@ -3069,7 +3207,8 @@ class CountryData {
 			'languages' => 'fr-MQ',
 			'geonameId' => '3570311',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '140',
@@ -3091,7 +3230,8 @@ class CountryData {
 			'languages' => 'ar-MR,fuc,snk,fr,mey,wo',
 			'geonameId' => '2378080',
 			'neighbours' => 'SN,DZ,EH,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '141',
@@ -3113,7 +3253,8 @@ class CountryData {
 			'languages' => 'en-MU,bho,fr',
 			'geonameId' => '934292',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '142',
@@ -3135,7 +3276,8 @@ class CountryData {
 			'languages' => 'fr-YT',
 			'geonameId' => '1024031',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '143',
@@ -3157,7 +3299,8 @@ class CountryData {
 			'languages' => 'es-MX',
 			'geonameId' => '3996063',
 			'neighbours' => 'GT,US,BZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '144',
@@ -3179,7 +3322,8 @@ class CountryData {
 			'languages' => 'en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg',
 			'geonameId' => '2081918',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '145',
@@ -3201,7 +3345,8 @@ class CountryData {
 			'languages' => 'ro,ru,gag,tr',
 			'geonameId' => '617790',
 			'neighbours' => 'RO,UA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '146',
@@ -3223,7 +3368,8 @@ class CountryData {
 			'languages' => 'fr-MC,en,it',
 			'geonameId' => '2993457',
 			'neighbours' => 'FR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '147',
@@ -3245,7 +3391,8 @@ class CountryData {
 			'languages' => 'mn,ru',
 			'geonameId' => '2029969',
 			'neighbours' => 'CN,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '148',
@@ -3267,7 +3414,8 @@ class CountryData {
 			'languages' => 'sr,hu,bs,sq,hr,rom',
 			'geonameId' => '3194884',
 			'neighbours' => 'AL,HR,BA,RS,XK',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '149',
@@ -3289,7 +3437,8 @@ class CountryData {
 			'languages' => 'en-MS',
 			'geonameId' => '3578097',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '150',
@@ -3311,7 +3460,8 @@ class CountryData {
 			'languages' => 'ar-MA,fr',
 			'geonameId' => '2542007',
 			'neighbours' => 'DZ,EH,ES',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '151',
@@ -3333,7 +3483,8 @@ class CountryData {
 			'languages' => 'pt-MZ,vmw',
 			'geonameId' => '1036973',
 			'neighbours' => 'ZW,TZ,SZ,ZA,ZM,MW',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '152',
@@ -3355,7 +3506,8 @@ class CountryData {
 			'languages' => 'my',
 			'geonameId' => '1327865',
 			'neighbours' => 'CN,LA,TH,BD,IN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '153',
@@ -3377,7 +3529,8 @@ class CountryData {
 			'languages' => 'en-NA,af,de,hz,naq',
 			'geonameId' => '3355338',
 			'neighbours' => 'ZA,BW,ZM,AO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '154',
@@ -3399,7 +3552,8 @@ class CountryData {
 			'languages' => 'na,en-NR',
 			'geonameId' => '2110425',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '155',
@@ -3421,7 +3575,8 @@ class CountryData {
 			'languages' => 'ne,en',
 			'geonameId' => '1282988',
 			'neighbours' => 'CN,IN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '156',
@@ -3443,7 +3598,8 @@ class CountryData {
 			'languages' => 'nl-NL,fy-NL',
 			'geonameId' => '2750405',
 			'neighbours' => 'DE,BE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '157',
@@ -3465,7 +3621,8 @@ class CountryData {
 			'languages' => 'nl-AN,en,es',
 			'geonameId' => '0',
 			'neighbours' => 'GP',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '158',
@@ -3487,7 +3644,8 @@ class CountryData {
 			'languages' => 'fr-NC',
 			'geonameId' => '2139685',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '159',
@@ -3509,7 +3667,8 @@ class CountryData {
 			'languages' => 'en-NZ,mi',
 			'geonameId' => '2186224',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '160',
@@ -3531,7 +3690,8 @@ class CountryData {
 			'languages' => 'es-NI,en',
 			'geonameId' => '3617476',
 			'neighbours' => 'CR,HN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '161',
@@ -3553,7 +3713,8 @@ class CountryData {
 			'languages' => 'fr-NE,ha,kr,dje',
 			'geonameId' => '2440476',
 			'neighbours' => 'TD,BJ,DZ,LY,BF,NG,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '162',
@@ -3575,7 +3736,8 @@ class CountryData {
 			'languages' => 'en-NG,ha,yo,ig,ff',
 			'geonameId' => '2328926',
 			'neighbours' => 'TD,NE,BJ,CM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '163',
@@ -3597,7 +3759,8 @@ class CountryData {
 			'languages' => 'niu,en-NU',
 			'geonameId' => '4036232',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '164',
@@ -3619,7 +3782,8 @@ class CountryData {
 			'languages' => 'en-NF',
 			'geonameId' => '2155115',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '165',
@@ -3641,7 +3805,8 @@ class CountryData {
 			'languages' => 'ko-KP',
 			'geonameId' => '1873107',
 			'neighbours' => 'CN,KR,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '166',
@@ -3663,7 +3828,8 @@ class CountryData {
 			'languages' => 'fil,tl,zh,ch-MP,en-MP',
 			'geonameId' => '4041468',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '167',
@@ -3685,7 +3851,8 @@ class CountryData {
 			'languages' => 'no,nb,nn,se,fi',
 			'geonameId' => '3144096',
 			'neighbours' => 'FI,RU,SE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '168',
@@ -3707,7 +3874,8 @@ class CountryData {
 			'languages' => 'ar-OM,en,bal,ur',
 			'geonameId' => '286963',
 			'neighbours' => 'SA,YE,AE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '169',
@@ -3729,7 +3897,8 @@ class CountryData {
 			'languages' => 'ur-PK,en-PK,pa,sd,ps,brh',
 			'geonameId' => '1168579',
 			'neighbours' => 'CN,AF,IR,IN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '170',
@@ -3751,7 +3920,8 @@ class CountryData {
 			'languages' => 'pau,sov,en-PW,tox,ja,fil,zh',
 			'geonameId' => '1559582',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '171',
@@ -3773,7 +3943,8 @@ class CountryData {
 			'languages' => 'ar-PS',
 			'geonameId' => '6254930',
 			'neighbours' => 'JO,IL',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '172',
@@ -3795,7 +3966,8 @@ class CountryData {
 			'languages' => 'es-PA,en',
 			'geonameId' => '3703430',
 			'neighbours' => 'CR,CO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '173',
@@ -3817,7 +3989,8 @@ class CountryData {
 			'languages' => 'en-PG,ho,meu,tpi',
 			'geonameId' => '2088628',
 			'neighbours' => 'ID',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '174',
@@ -3839,7 +4012,8 @@ class CountryData {
 			'languages' => 'es-PY,gn',
 			'geonameId' => '3437598',
 			'neighbours' => 'BO,BR,AR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '175',
@@ -3861,7 +4035,8 @@ class CountryData {
 			'languages' => 'es-PE,qu,ay',
 			'geonameId' => '3932488',
 			'neighbours' => 'EC,CL,BO,BR,CO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '176',
@@ -3883,7 +4058,8 @@ class CountryData {
 			'languages' => 'tl,en-PH,fil',
 			'geonameId' => '1694008',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '177',
@@ -3905,7 +4081,8 @@ class CountryData {
 			'languages' => 'en-PN',
 			'geonameId' => '4030699',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '178',
@@ -3927,7 +4104,8 @@ class CountryData {
 			'languages' => 'pl',
 			'geonameId' => '798544',
 			'neighbours' => 'DE,LT,SK,CZ,BY,UA,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '179',
@@ -3949,7 +4127,8 @@ class CountryData {
 			'languages' => 'pt-PT,mwl',
 			'geonameId' => '2264397',
 			'neighbours' => 'ES',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '180',
@@ -3971,7 +4150,8 @@ class CountryData {
 			'languages' => 'en-PR,es-PR',
 			'geonameId' => '4566966',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '181',
@@ -3993,7 +4173,8 @@ class CountryData {
 			'languages' => 'ar-QA,es',
 			'geonameId' => '289688',
 			'neighbours' => 'SA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '182',
@@ -4015,7 +4196,8 @@ class CountryData {
 			'languages' => 'fr-CG,kg,ln-CG',
 			'geonameId' => '2260494',
 			'neighbours' => 'CF,GA,CD,CM,AO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '183',
@@ -4037,7 +4219,8 @@ class CountryData {
 			'languages' => 'fr-RE',
 			'geonameId' => '935317',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '184',
@@ -4059,7 +4242,8 @@ class CountryData {
 			'languages' => 'ro,hu,rom',
 			'geonameId' => '798549',
 			'neighbours' => 'MD,HU,UA,CS,BG,RS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '185',
@@ -4081,7 +4265,8 @@ class CountryData {
 			'languages' => 'ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog',
 			'geonameId' => '2017370',
 			'neighbours' => 'GE,CN,BY,UA,KZ,LV,PL',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '186',
@@ -4103,7 +4288,8 @@ class CountryData {
 			'languages' => 'rw,en-RW,fr-RW,sw',
 			'geonameId' => '49518',
 			'neighbours' => 'TZ,CD,BI,UG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '187',
@@ -4125,7 +4311,8 @@ class CountryData {
 			'languages' => 'fr',
 			'geonameId' => '3578476',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '188',
@@ -4147,7 +4334,8 @@ class CountryData {
 			'languages' => 'en-SH',
 			'geonameId' => '3370751',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '189',
@@ -4169,7 +4357,8 @@ class CountryData {
 			'languages' => 'en-KN',
 			'geonameId' => '3575174',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '190',
@@ -4191,7 +4380,8 @@ class CountryData {
 			'languages' => 'en-LC',
 			'geonameId' => '3576468',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '191',
@@ -4213,7 +4403,8 @@ class CountryData {
 			'languages' => 'fr',
 			'geonameId' => '3578421',
 			'neighbours' => 'SX',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '192',
@@ -4235,7 +4426,8 @@ class CountryData {
 			'languages' => 'fr-PM',
 			'geonameId' => '3424932',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '193',
@@ -4257,7 +4449,8 @@ class CountryData {
 			'languages' => 'en-VC,fr',
 			'geonameId' => '3577815',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '194',
@@ -4279,7 +4472,8 @@ class CountryData {
 			'languages' => 'sm,en-WS',
 			'geonameId' => '4034894',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '195',
@@ -4301,7 +4495,8 @@ class CountryData {
 			'languages' => 'it-SM',
 			'geonameId' => '3168068',
 			'neighbours' => 'IT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '196',
@@ -4323,7 +4518,8 @@ class CountryData {
 			'languages' => 'pt-ST',
 			'geonameId' => '2410758',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '197',
@@ -4345,7 +4541,8 @@ class CountryData {
 			'languages' => 'ar-SA',
 			'geonameId' => '102358',
 			'neighbours' => 'QA,OM,IQ,YE,JO,AE,KW',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '198',
@@ -4367,7 +4564,8 @@ class CountryData {
 			'languages' => 'fr-SN,wo,fuc,mnk',
 			'geonameId' => '2245662',
 			'neighbours' => 'GN,MR,GW,GM,ML',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '199',
@@ -4389,7 +4587,8 @@ class CountryData {
 			'languages' => 'sr,hu,bs,rom',
 			'geonameId' => '6290252',
 			'neighbours' => 'AL,HU,MK,RO,HR,BA,BG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '200',
@@ -4411,7 +4610,8 @@ class CountryData {
 			'languages' => 'cu,hu,sq,sr',
 			'geonameId' => '0',
 			'neighbours' => 'AL,HU,MK,RO,HR,BA,BG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '201',
@@ -4433,7 +4633,8 @@ class CountryData {
 			'languages' => 'en-SC,fr-SC',
 			'geonameId' => '241170',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '202',
@@ -4455,7 +4656,8 @@ class CountryData {
 			'languages' => 'en-SL,men,tem',
 			'geonameId' => '2403846',
 			'neighbours' => 'LR,GN',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '203',
@@ -4477,7 +4679,8 @@ class CountryData {
 			'languages' => 'cmn,en-SG,ms-SG,ta-SG,zh-SG',
 			'geonameId' => '1880251',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '204',
@@ -4499,7 +4702,8 @@ class CountryData {
 			'languages' => 'nl,en',
 			'geonameId' => '7609695',
 			'neighbours' => 'MF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '205',
@@ -4521,7 +4725,8 @@ class CountryData {
 			'languages' => 'sk,hu',
 			'geonameId' => '3057568',
 			'neighbours' => 'PL,HU,CZ,UA,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '206',
@@ -4543,7 +4748,8 @@ class CountryData {
 			'languages' => 'sl,sh',
 			'geonameId' => '3190538',
 			'neighbours' => 'HU,IT,HR,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '207',
@@ -4565,7 +4771,8 @@ class CountryData {
 			'languages' => 'en-SB,tpi',
 			'geonameId' => '2103350',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '208',
@@ -4587,7 +4794,8 @@ class CountryData {
 			'languages' => 'so-SO,ar-SO,it,en-SO',
 			'geonameId' => '51537',
 			'neighbours' => 'ET,KE,DJ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '209',
@@ -4609,7 +4817,8 @@ class CountryData {
 			'languages' => 'zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr',
 			'geonameId' => '953987',
 			'neighbours' => 'ZW,SZ,MZ,BW,NA,LS',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '210',
@@ -4631,7 +4840,8 @@ class CountryData {
 			'languages' => 'en',
 			'geonameId' => '3474415',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '211',
@@ -4653,7 +4863,8 @@ class CountryData {
 			'languages' => 'ko-KR,en',
 			'geonameId' => '1835841',
 			'neighbours' => 'KP',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '212',
@@ -4675,7 +4886,8 @@ class CountryData {
 			'languages' => 'en',
 			'geonameId' => '7909807',
 			'neighbours' => 'CD,CF,ET,KE,SD,UG,',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '213',
@@ -4697,7 +4909,8 @@ class CountryData {
 			'languages' => 'es-ES,ca,gl,eu,oc',
 			'geonameId' => '2510769',
 			'neighbours' => 'AD,PT,GI,FR,MA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '214',
@@ -4719,7 +4932,8 @@ class CountryData {
 			'languages' => 'si,ta,en',
 			'geonameId' => '1227603',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '215',
@@ -4741,7 +4955,8 @@ class CountryData {
 			'languages' => 'ar-SD,en,fia',
 			'geonameId' => '366755',
 			'neighbours' => 'SS,TD,EG,ET,ER,LY,CF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '216',
@@ -4763,7 +4978,8 @@ class CountryData {
 			'languages' => 'nl-SR,en,srn,hns,jv',
 			'geonameId' => '3382998',
 			'neighbours' => 'GY,BR,GF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '217',
@@ -4785,7 +5001,8 @@ class CountryData {
 			'languages' => 'no,ru',
 			'geonameId' => '607072',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '218',
@@ -4807,7 +5024,8 @@ class CountryData {
 			'languages' => 'en-SZ,ss-SZ',
 			'geonameId' => '934841',
 			'neighbours' => 'ZA,MZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '219',
@@ -4829,7 +5047,8 @@ class CountryData {
 			'languages' => 'sv-SE,se,sma,fi-SE',
 			'geonameId' => '2661886',
 			'neighbours' => 'NO,FI',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '220',
@@ -4851,7 +5070,8 @@ class CountryData {
 			'languages' => 'de-CH,fr-CH,it-CH,rm',
 			'geonameId' => '2658434',
 			'neighbours' => 'DE,IT,LI,FR,AT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '221',
@@ -4873,7 +5093,8 @@ class CountryData {
 			'languages' => 'ar-SY,ku,hy,arc,fr,en',
 			'geonameId' => '163843',
 			'neighbours' => 'IQ,JO,IL,TR,LB',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '222',
@@ -4895,7 +5116,8 @@ class CountryData {
 			'languages' => 'zh-TW,zh,nan,hak',
 			'geonameId' => '1668284',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '223',
@@ -4917,7 +5139,8 @@ class CountryData {
 			'languages' => 'tg,ru',
 			'geonameId' => '1220409',
 			'neighbours' => 'CN,AF,KG,UZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '224',
@@ -4939,7 +5162,8 @@ class CountryData {
 			'languages' => 'sw-TZ,en,ar',
 			'geonameId' => '149590',
 			'neighbours' => 'MZ,KE,CD,RW,ZM,BI,UG',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '225',
@@ -4961,7 +5185,8 @@ class CountryData {
 			'languages' => 'th,en',
 			'geonameId' => '1605651',
 			'neighbours' => 'LA,MM,KH,MY',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '226',
@@ -4983,7 +5208,8 @@ class CountryData {
 			'languages' => 'fr-TG,ee,hna,kbp,dag,ha',
 			'geonameId' => '2363686',
 			'neighbours' => 'BJ,GH,BF',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '227',
@@ -5005,7 +5231,8 @@ class CountryData {
 			'languages' => 'tkl,en-TK',
 			'geonameId' => '4031074',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '228',
@@ -5027,7 +5254,8 @@ class CountryData {
 			'languages' => 'to,en-TO',
 			'geonameId' => '4032283',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '229',
@@ -5049,7 +5277,8 @@ class CountryData {
 			'languages' => 'en-TT,hns,fr,es,zh',
 			'geonameId' => '3573591',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '230',
@@ -5071,7 +5300,8 @@ class CountryData {
 			'languages' => 'ar-TN,fr',
 			'geonameId' => '2464461',
 			'neighbours' => 'DZ,LY',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '231',
@@ -5093,7 +5323,8 @@ class CountryData {
 			'languages' => 'tr-TR,ku,diq,az,av',
 			'geonameId' => '298795',
 			'neighbours' => 'SY,GE,IQ,IR,GR,AM,AZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '232',
@@ -5115,7 +5346,8 @@ class CountryData {
 			'languages' => 'tk,ru,uz',
 			'geonameId' => '1218197',
 			'neighbours' => 'AF,IR,UZ,KZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '233',
@@ -5137,7 +5369,8 @@ class CountryData {
 			'languages' => 'en-TC',
 			'geonameId' => '3576916',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '234',
@@ -5159,7 +5392,8 @@ class CountryData {
 			'languages' => 'tvl,en,sm,gil',
 			'geonameId' => '2110297',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '235',
@@ -5181,7 +5415,8 @@ class CountryData {
 			'languages' => 'en-VI',
 			'geonameId' => '4796775',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '236',
@@ -5203,7 +5438,8 @@ class CountryData {
 			'languages' => 'en-UG,lg,sw,ar',
 			'geonameId' => '226074',
 			'neighbours' => 'TZ,KE,SS,CD,RW',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '237',
@@ -5225,7 +5461,8 @@ class CountryData {
 			'languages' => 'uk,ru-UA,rom,pl,hu',
 			'geonameId' => '690791',
 			'neighbours' => 'PL,MD,HU,SK,BY,RO,RU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '238',
@@ -5247,7 +5484,8 @@ class CountryData {
 			'languages' => 'ar-AE,fa,en,hi,ur',
 			'geonameId' => '290557',
 			'neighbours' => 'SA,OM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '239',
@@ -5269,7 +5507,8 @@ class CountryData {
 			'languages' => 'en-GB,cy-GB,gd',
 			'geonameId' => '2635167',
 			'neighbours' => 'IE',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '240',
@@ -5291,7 +5530,8 @@ class CountryData {
 			'languages' => 'en-US,es-US,haw,fr',
 			'geonameId' => '6252001',
 			'neighbours' => 'CA,MX,CU',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '241',
@@ -5313,7 +5553,8 @@ class CountryData {
 			'languages' => 'en-UM',
 			'geonameId' => '5854968',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '242',
@@ -5335,7 +5576,8 @@ class CountryData {
 			'languages' => 'es-UY',
 			'geonameId' => '3439705',
 			'neighbours' => 'BR,AR',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '243',
@@ -5357,7 +5599,8 @@ class CountryData {
 			'languages' => 'uz,ru,tg',
 			'geonameId' => '1512440',
 			'neighbours' => 'TM,AF,KG,TJ,KZ',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '244',
@@ -5379,7 +5622,8 @@ class CountryData {
 			'languages' => 'bi,en-VU,fr-VU',
 			'geonameId' => '2134431',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '245',
@@ -5401,7 +5645,8 @@ class CountryData {
 			'languages' => 'la,it,fr',
 			'geonameId' => '3164670',
 			'neighbours' => 'IT',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '246',
@@ -5423,7 +5668,8 @@ class CountryData {
 			'languages' => 'es-VE',
 			'geonameId' => '3625428',
 			'neighbours' => 'GY,BR,CO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '247',
@@ -5445,7 +5691,8 @@ class CountryData {
 			'languages' => 'vi,en,fr,zh,km',
 			'geonameId' => '1562822',
 			'neighbours' => 'CN,LA,KH',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '248',
@@ -5467,7 +5714,8 @@ class CountryData {
 			'languages' => 'wls,fud,fr-WF',
 			'geonameId' => '4034749',
 			'neighbours' => '',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '249',
@@ -5489,7 +5737,8 @@ class CountryData {
 			'languages' => 'ar,mey',
 			'geonameId' => '2461445',
 			'neighbours' => 'DZ,MR,MA',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '250',
@@ -5511,7 +5760,8 @@ class CountryData {
 			'languages' => 'ar-YE',
 			'geonameId' => '69543',
 			'neighbours' => 'SA,OM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '251',
@@ -5533,7 +5783,8 @@ class CountryData {
 			'languages' => 'en-ZM,bem,loz,lun,lue,ny,toi',
 			'geonameId' => '895949',
 			'neighbours' => 'ZW,TZ,MZ,CD,NA,MW,AO',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 		array(
 			'id' => '252',
@@ -5555,7 +5806,8 @@ class CountryData {
 			'languages' => 'en-ZW,sn,nr,nd',
 			'geonameId' => '878675',
 			'neighbours' => 'ZA,MZ,BW,ZM',
-			'equivalentFipsCode' => ''
+			'equivalentFipsCode' => '
+'
 		),
 	);
 

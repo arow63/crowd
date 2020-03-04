@@ -1,7 +1,7 @@
 /**
 *
-* @copyright 	Copyright (c) 2016 {@link http://www.agriya.com Agriya Infoway}
-* @license 		http://www.agriya.com Agriya Infoway Licence
+* @copyright 	Copyright (c) 2016 {@link http://www.arow63.com arow63 Infoway}
+* @license 		http://www.arow63.com arow63 Infoway Licence
 * @version 		Services Team
 */
 

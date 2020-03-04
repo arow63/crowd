@@ -7,10 +7,10 @@
  * @category   PHP
  * @package    CrowdFunding
  * @subpackage Core
- * @author     Agriya <info@agriya.com>
- * @copyright  2018 Agriya Infoway Private Ltd
- * @license    http://www.agriya.com/ Agriya Infoway Licence
- * @link       http://www.agriya.com
+ * @author     arow63 <info@arow63.com>
+ * @copyright  2018 arow63 Infoway Private Ltd
+ * @license    http://www.arow63.com/ arow63 Infoway Licence
+ * @link       http://www.arow63.com
  */
 /* SVN FILE: $Id: inflections.php 7945 2008-12-19 02:16:01Z gwoo $ */
 /**

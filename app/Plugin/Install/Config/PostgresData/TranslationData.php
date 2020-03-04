@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -22799,8 +22799,8 @@ class TranslationData {
 			'created' => '2013-07-29 18:04:19',
 			'modified' => '2013-07-29 18:04:19',
 			'language_id' => '42',
-			'name' => '--Agriya',
-			'lang_text' => '--Agriya',
+			'name' => '--arow63',
+			'lang_text' => '--arow63',
 			'is_translated' => '',
 			'is_google_translate' => '',
 			'is_verified' => ''

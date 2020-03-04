@@ -1,9 +1,9 @@
 {
 	"name" : "Security Questions",
 	"description" : "By enabling this, user can enter answers for predefined security questions when register and will provide the security answer when user reset their password.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"admin" : {
 		"controller" : "security_questions",
 		"action" : "index"

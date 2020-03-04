@@ -1,9 +1,9 @@
 {
 	"name" : "Pledge",
 	"description" : "By enabling this, the users can pledge fund on projects. i.e., the amount will captured or refunded according to the funding method selected by the project owner, after the project reached end date.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : {
 		"setting_category_id" : "11",
 		"controller" : "settings",

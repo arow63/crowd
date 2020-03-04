@@ -262,7 +262,7 @@
 					<section class="<?php echo $this->Html->getUniquePageId();?> clearfix">
 						<?php echo $content_for_layout;?>
 					</section>
-					<?php echo $this->element('agriya-crowdfund-advantage'); ?>
+					<?php echo $this->element('arow63-crowdfund-advantage'); ?>
 				</main>
 			</section>
 			<footer id="footer" class="footer">

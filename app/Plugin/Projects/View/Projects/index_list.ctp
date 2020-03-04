@@ -4,7 +4,7 @@
 <section class="h1  sec-1">
 	<div class="container">
 		<div class="text-center col-xs-12 h1">
-			<p class="h3 col-xs-12"><?php echo sprintf(__l('Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with Agriya’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.'), Configure::read('site.name'), Configure::read('site.name'));?></p>
+			<p class="h3 col-xs-12"><?php echo sprintf(__l('Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with arow63’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.'), Configure::read('site.name'), Configure::read('site.name'));?></p>
 			<div class="col-xs-12 h1 well-sm  cf-strt-prjt">
 			<?php 
 				$plugin_count = 0;

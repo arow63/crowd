@@ -1,9 +1,9 @@
 {
 	"name" : "Affiliates",
 	"description" : "By enabling this, the site user can refer our site to his friends and can earn some money, if they joined/funded in our site.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : "true",
 	"parent": "3.Plugins For All Modules.Children.Others.Children",
 	"icon" : "group",

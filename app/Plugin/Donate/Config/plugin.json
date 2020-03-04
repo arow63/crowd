@@ -1,9 +1,9 @@
 {
 	"name" : "Donate",
 	"description" : "By enabling this, the users can donate funds to projects (i.e., non refundable fund even if the project is not successful).",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : "true",
 	"parent": "1.Modules.Children",
 	"subplugin" : "",

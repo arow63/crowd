@@ -7,10 +7,10 @@
  * @category   PHP
  * @package    Crowdfunding
  * @subpackage Core
- * @author     Agriya <info@agriya.com>
- * @copyright  2018 Agriya Infoway Private Ltd
- * @license    http://www.agriya.com/ Agriya Infoway Licence
- * @link       http://www.agriya.com
+ * @author     arow63 <info@arow63.com>
+ * @copyright  2018 arow63 Infoway Private Ltd
+ * @license    http://www.arow63.com/ arow63 Infoway Licence
+ * @link       http://www.arow63.com
  */
 App::uses('Controller', 'Controller');
 class AppController extends Controller
@@ -106,7 +106,7 @@ class AppController extends Controller
         $this->Session = new SessionComponent($collection);
         Cms::applyHookProperties('Hook.controller_properties', $this);
         parent::__construct($request, $response);
-        /*if (!defined('STDIN') && $_SERVER['HTTP_HOST'] != 'localhost' && strstr($_SERVER['HTTP_HOST'], '.dev1.agriya.com') != '.dev1.agriya.com' && strstr($_SERVER['HTTP_HOST'], '.servicepg.develag.com') != '.servicepg.develag.com' && strstr($_SERVER['HTTP_HOST'], '.cssilize.com') != '.cssilize.com') {
+        /*if (!defined('STDIN') && $_SERVER['HTTP_HOST'] != 'localhost' && strstr($_SERVER['HTTP_HOST'], '.dev1.arow63.com') != '.dev1.arow63.com' && strstr($_SERVER['HTTP_HOST'], '.servicepg.develag.com') != '.servicepg.develag.com' && strstr($_SERVER['HTTP_HOST'], '.cssilize.com') != '.cssilize.com') {
             if (!defined('LICENSE_HASH')) {
                 die('Sorry invalid license');
             }

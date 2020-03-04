@@ -1,9 +1,9 @@
 {
 	"name" : "Translation",
 	"description" : "By enabling this, it helps the site to run the site in multiple languages.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"settings" : "true",
 	"parent": "3.Plugins For All Modules.Children.Others.Children",
 	"icon" : "magic",

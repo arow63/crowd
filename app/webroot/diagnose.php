@@ -7,10 +7,10 @@
  * @category   PHP
  * @package    Crowdfunding
  * @subpackage Core
- * @author     Agriya <info@agriya.com>
- * @copyright  2018 Agriya Infoway Private Ltd
- * @license    http://www.agriya.com/ Agriya Infoway Licence
- * @link       http://www.agriya.com
+ * @author     arow <info@arow.com>
+ * @copyright  2018 arow Infoway Private Ltd
+ * @license    http://www.arow.com/ arow Infoway Licence
+ * @link       http://www.arow.com
  */
 if (!defined('ROOT')) {
     define('ROOT', dirname(dirname(dirname(__FILE__))));
@@ -1106,7 +1106,7 @@ echo $writable; ?>
 	<span> Note: </span>
     <span>
 		The above folders need to be writable (Have to chmod to 655 or 755 or 775 depending upon the server configuration. Note: 777 is highly discouraged).
-		<br/>For more info: <a href="http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#setting_up_files" target="_blank">http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#setting_up_files</a>
+		<br/>For more info: <a href="http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#setting_up_files" target="_blank">http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#setting_up_files</a>
 	</span>
 </p>
 
@@ -1143,7 +1143,7 @@ echo $default_db['db_connect']; ?></td>
 	<span> Note: </span>
     <span>
 		Verify your database connectivity if above showed in 'Red' background color.
-		<br/>For more info: <a href="http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#setting_up_database" target="_blank">http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#setting_up_database</a>
+		<br/>For more info: <a href="http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#setting_up_database" target="_blank">http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#setting_up_database</a>
 	</span>
 </p>
 <h2>Step 4: Checking Server Configuration...</h2>
@@ -1259,7 +1259,7 @@ echo $htaccess_papp_protected; ?>
 <p class="info-details">
 	<span> Note: </span>
     <span>
-		<br/>For more info: <a href="http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#manage_settings" target="_blank">http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#manage_settings</a>
+		<br/>For more info: <a href="http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#manage_settings" target="_blank">http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#manage_settings</a>
 	</span>
 </p>
 <?php
@@ -1610,7 +1610,7 @@ if ($master_db['payment_gateway']['error'] == 'None') { ?>
 	<span> Note: </span>
     <span>
 		Above shows the settings enabled/disabled currently in the site. Login in as Administrator and go to "Settings" to manage the above displayed ones.
-		<br/>For more info: <a href="http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#manage_settings" target="_blank">http://dev1products.dev.agriya.com/doku.php?id=crowdfunding-install#manage_settings</a>
+		<br/>For more info: <a href="http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#manage_settings" target="_blank">http://dev1products.dev.arow.com/doku.php?id=crowdfunding-install#manage_settings</a>
     </span>
 </p>
 <?php

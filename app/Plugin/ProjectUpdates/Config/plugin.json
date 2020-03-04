@@ -1,9 +1,9 @@
 {
 	"name" : "Project Updates",
 	"description" : "By enabling this, project owner can add updates on their projects and get comments over them.",
-	"author" : "Agriya",
-	"authorEmail" : "info@agriya.com",
-	"authorUrl" : "http://www.agriya.com",
+	"author" : "arow63",
+	"authorEmail" : "info@arow63.com",
+	"authorUrl" : "http://www.arow63.com",
 	"parent": "3.Plugins For All Modules.Children.Projects.Children",
 	"dependencies": {
 		"plugins" : {

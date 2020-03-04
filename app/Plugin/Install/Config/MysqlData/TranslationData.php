@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -22788,8 +22788,8 @@ class TranslationData {
 			'created' => '2013-07-29 18:04:19',
 			'modified' => '2013-07-29 18:04:19',
 			'language_id' => '42',
-			'name' => '--Agriya',
-			'lang_text' => '--Agriya',
+			'name' => '--arow63',
+			'lang_text' => '--arow63',
 			'is_translated' => '0',
 			'is_google_translate' => '0',
 			'is_verified' => '0'
@@ -25274,8 +25274,8 @@ class TranslationData {
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Agriya Web Development',
-			'lang_text' => 'Agriya Web Development',
+			'name' => 'arow63 Web Development',
+			'lang_text' => 'arow63 Web Development',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -25318,8 +25318,8 @@ class TranslationData {
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Contact Agriya',
-			'lang_text' => 'Contact Agriya',
+			'name' => 'Contact arow63',
+			'lang_text' => 'Contact arow63',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -26693,8 +26693,8 @@ class TranslationData {
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Incase if you don\'t know... for years, Agriya<sup>&reg;</sup> doesn\'t just sell products, but offers multiple solutions and services.',
-			'lang_text' => 'Incase if you don\'t know... for years, Agriya<sup>&reg;</sup> doesn\'t just sell products, but offers multiple solutions and services.',
+			'name' => 'Incase if you don\'t know... for years, arow63<sup>&reg;</sup> doesn\'t just sell products, but offers multiple solutions and services.',
+			'lang_text' => 'Incase if you don\'t know... for years, arow63<sup>&reg;</sup> doesn\'t just sell products, but offers multiple solutions and services.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -26715,8 +26715,8 @@ class TranslationData {
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Passionate micro entrepreneurs prefer mentors and startup accelerators. Sadly, an accelerator like Y Combinator has mere 3% acceptance rate. Agriya<sup>&reg;</sup> provides all related solutions and consultations.',
-			'lang_text' => 'Passionate micro entrepreneurs prefer mentors and startup accelerators. Sadly, an accelerator like Y Combinator has mere 3% acceptance rate. Agriya<sup>&reg;</sup> provides all related solutions and consultations.',
+			'name' => 'Passionate micro entrepreneurs prefer mentors and startup accelerators. Sadly, an accelerator like Y Combinator has mere 3% acceptance rate. arow63<sup>&reg;</sup> provides all related solutions and consultations.',
+			'lang_text' => 'Passionate micro entrepreneurs prefer mentors and startup accelerators. Sadly, an accelerator like Y Combinator has mere 3% acceptance rate. arow63<sup>&reg;</sup> provides all related solutions and consultations.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -27562,8 +27562,8 @@ class TranslationData {
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with Agriya’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.',
-			'lang_text' => 'Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with Agriya’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.',
+			'name' => 'Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with arow63’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.',
+			'lang_text' => 'Personalize, mold and replicate the entire business model of Kickstarter for your nation, language,currency and preferred niches with arow63’s fundraising software – %s Pledge. Just install it on your server to easily create, launch, manage and maintain a Next Generation %s platform in days.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -32272,8 +32272,8 @@ Warning: changing this value may break your mobile apps.',
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\\\"http://code.google.com/apis/language/translate/v2/pricing.html\\\" target=\\\"_blank\\\">paid service</a>.Getting Api key, refer <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing</a>.',
-			'lang_text' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\\\"http://code.google.com/apis/language/translate/v2/pricing.html\\\" target=\\\"_blank\\\">paid service</a>.Getting Api key, refer <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=google-translations-pricing</a>.',
+			'name' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\\\"http://code.google.com/apis/language/translate/v2/pricing.html\\\" target=\\\"_blank\\\">paid service</a>.Getting Api key, refer <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing</a>.',
+			'lang_text' => 'We use this service for quick translation to support new languages in ##TRANSLATIONADD##.Note that Google Translate API is now a <a href=\\\"http://code.google.com/apis/language/translate/v2/pricing.html\\\" target=\\\"_blank\\\">paid service</a>.Getting Api key, refer <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=google-translations-pricing</a>.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -32294,8 +32294,8 @@ Warning: changing this value may break your mobile apps.',
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=twitter-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=twitter-setup.</a>',
-			'lang_text' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=twitter-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=twitter-setup.</a>',
+			'name' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=twitter-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=twitter-setup.</a>',
+			'lang_text' => 'Twitter is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Twitter account. <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=twitter-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=twitter-setup.</a>',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -32305,8 +32305,8 @@ Warning: changing this value may break your mobile apps.',
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=facebook-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=facebook-setup.</a>',
-			'lang_text' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\\\"http://dev1products.dev.agriya.com/doku.php?id=facebook-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.agriya.com/doku.php?id=facebook-setup.</a>',
+			'name' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=facebook-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=facebook-setup.</a>',
+			'lang_text' => 'Facebook is used for login and posting messages using its account details. For doing this, your site must be configured with an existing Facebook account. <a href=\\\"http://dev1products.dev.arow63.com/doku.php?id=facebook-setup\\\" target=\\\"_blank\\\">http://dev1products.dev.arow63.com/doku.php?id=facebook-setup.</a>',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -33562,8 +33562,8 @@ Warning: changing this value may break your mobile apps.',
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as Agriya SFPlatform script is highly optimized already.',
-			'lang_text' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as Agriya SFPlatform script is highly optimized already.',
+			'name' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as arow63 SFPlatform script is highly optimized already.',
+			'lang_text' => 'Google PageSpeed is also easy to setup through DNS change. This will optimize site\'s HTML, JavaScript, Style Sheets and images on the fly. You may not usually need to turn this on as arow63 SFPlatform script is highly optimized already.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'
@@ -34200,8 +34200,8 @@ Warning: changing this value may break your mobile apps.',
 			'created' => '0000-00-00 00:00:00',
 			'modified' => '0000-00-00 00:00:00',
 			'language_id' => '42',
-			'name' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this Agriya SFPlatform script is highly optimized for this approach, this is highly recommended for good performance.',
-			'lang_text' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this Agriya SFPlatform script is highly optimized for this approach, this is highly recommended for good performance.',
+			'name' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this arow63 SFPlatform script is highly optimized for this approach, this is highly recommended for good performance.',
+			'lang_text' => 'By enabling this, most of the pages will be disk-cached. This will avoid PHP and database access. Caveat of this approach is that users will be presented with little outdated contents. Since, this arow63 SFPlatform script is highly optimized for this approach, this is highly recommended for good performance.',
 			'is_translated' => '1',
 			'is_google_translate' => '0',
 			'is_verified' => '1'

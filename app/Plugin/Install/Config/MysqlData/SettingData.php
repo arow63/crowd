@@ -3,8 +3,8 @@
  *
  * @package		Crowdfunding
  * @author 		siva_063at09
- * @copyright 	Copyright (c) 2012 {@link http://www.agriya.com/ Agriya Infoway}
- * @license		http://www.agriya.com/ Agriya Infoway Licence
+ * @copyright 	Copyright (c) 2012 {@link http://www.arow63.com/ arow63 Infoway}
+ * @license		http://www.arow63.com/ arow63 Infoway Licence
  * @since 		2012-07-25
  *
  */
@@ -44,7 +44,7 @@ class SettingData {
 			'setting_category_id' => '2',
 			'setting_category_parent_id' => '34',
 			'name' => 'meta.keywords',
-			'value' => 'agriya, crowdfund, crowdfunding, kickstarter clone, fundbreak clone, thepoint clone, Sponsume clone, RocketHub clone',
+			'value' => 'arow63, crowdfund, crowdfunding, kickstarter clone, fundbreak clone, thepoint clone, Sponsume clone, RocketHub clone',
 			'description' => 'These are the keywords used for improving search engine results of your site. (Comma separated texts for multiple keywords.)',
 			'type' => 'text',
 			'options' => '',
@@ -96,7 +96,7 @@ class SettingData {
 			'setting_category_id' => '35',
 			'setting_category_parent_id' => '34',
 			'name' => 'site.tracking_script',
-			'value' => '<script type=\"text/javascript\"> var _gaq = _gaq || []; _gaq.push([\'_setAccount\', \'UA-18572079-3\']); _gaq.push([\'_setDomainName\', \'.dev.agriya.com\']); _gaq.push([\'_setAllowAnchor\', true]); _gaq.push([\'_trackPageview\']); _gaq.push(function() { href = window.location.search; href.replace(/(utm_source|utm_medium|utm_campaign|utm_term|utm_content)+=[^\\\\&]*/g, \'\').replace(/\\\\&+/g, \'&\').replace(/\\\\?\\\\&/g, \'?\').replace(/(\\\\?|\\\\&)$/g, \'\'); if (history.replaceState) history.replaceState(null, \'\', location.pathname + href + location.hash);}); (function() { var ga = document.createElement(\'script\'); ga.type = \'text/javascript\'; ga.async = true; ga.src = (\'https:\' == document.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\'; var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(ga, s); })(); </script>',
+			'value' => '<script type=\"text/javascript\"> var _gaq = _gaq || []; _gaq.push([\'_setAccount\', \'UA-18572079-3\']); _gaq.push([\'_setDomainName\', \'.dev.arow63.com\']); _gaq.push([\'_setAllowAnchor\', true]); _gaq.push([\'_trackPageview\']); _gaq.push(function() { href = window.location.search; href.replace(/(utm_source|utm_medium|utm_campaign|utm_term|utm_content)+=[^\\\\&]*/g, \'\').replace(/\\\\&+/g, \'&\').replace(/\\\\?\\\\&/g, \'?\').replace(/(\\\\?|\\\\&)$/g, \'\'); if (history.replaceState) history.replaceState(null, \'\', location.pathname + href + location.hash);}); (function() { var ga = document.createElement(\'script\'); ga.type = \'text/javascript\'; ga.async = true; ga.src = (\'https:\' == document.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\'; var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(ga, s); })(); </script>',
 			'description' => 'This is the site tracker script used for tracking and analyzing the data on how the people are getting into your website. e.g., Google Analytics. <a href=\"http://www.google.com/analytics\" target=\"_blank\">http://www.google.com/analytics</a>',
 			'type' => 'textarea',
 			'options' => '',
@@ -855,7 +855,7 @@ fool
 			'setting_category_id' => '15',
 			'setting_category_parent_id' => '38',
 			'name' => 'twitter.username',
-			'value' => 'agriyacrowdfund',
+			'value' => 'arow63crowdfund',
 			'description' => 'This is the Twitter username of the account has been created.',
 			'type' => 'text',
 			'options' => '',

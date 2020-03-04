@@ -57,8 +57,8 @@ div.main{
 	padding:15px 10px;
 	margin: 15px 0 50px 0;
 }
-div.agriya{
-	background:url("../../img/install/agriya-logo.png") no-repeat right top;
+div.arow63{
+	background:url("../../img/install/arow63-logo.png") no-repeat right top;
 	text-indent:-99999em;
 	width:150px;
 	height:100px;
@@ -161,7 +161,7 @@ a.powered {
     width: 92px;
 }
 a.company {
-    background: url("../../img/install/powered-by-agriya.png") no-repeat left center;
+    background: url("../../img/install/powered-by-arow63.png") no-repeat left center;
     height: 15px;
     width: 80px;
 }
